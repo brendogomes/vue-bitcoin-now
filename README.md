@@ -4,9 +4,7 @@ Este projeto é uma aplicação simples projetada para consumir a API Coindesk e
 
 ## Funcionalidades
 
-- Obtém os preços em tempo real do Bitcoin da API Coindesk.
 - Exibe os preços do Bitcoin em várias moedas.
-- Oferece a opção de visualizar os preços de outras criptomoedas.
 
 ## Tecnologias Utilizadas
 
